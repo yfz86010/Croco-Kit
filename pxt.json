@@ -1,11 +1,11 @@
 {
-    "name": "Croco-",
+    "name": "minutes—Croco",
     "version": "1.1.0",
-    "description": "Extension for YahBoom YB_Croco_Kit V1.1.0",
+    "description": "100 million minutes v1.1.0",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "LEDBit": "github:lzty634158/LED-Bit"
+        "LEDBit": "github:yfz86010/LED-Bit"
     },
     "files": [
         "README.md",
